@@ -9,7 +9,7 @@ Or in short :
 
 ![The GUI](https://github.com/extraltodeus/VolumeAssistant/blob/master/Screenshot.png?raw=true)
 
-The correction slider will set the intensity of the correction... The sweet unnoticeable spot is 0.6
+The correction slider will set the intensity of the correction... The sweet unnoticeable spot is 0.5
 
 The length slider is about the duration of the latest analysis. Higher = smoother changes. 0 = Instant correction (default)
 
