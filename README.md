@@ -1,4 +1,5 @@
-# VolumeAssistant NOTE : THE NEW VERSION IS IN THE REPO CALLED 'VOLMATIC'
+# VolumeAssistant 
+## NOTE : THE NEW VERSION IS IN THE REPO CALLED 'VOLMATIC'
 A simple program with a GUI to have a smooth audio output
 
 This simple app allows you to have a stable audio master volume by setting it constantly according to the intensity of what you are listening.
