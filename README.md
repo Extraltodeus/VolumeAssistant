@@ -2,6 +2,8 @@
 ## NOTE : The new version is called Volmatic and is available on Steam :
 https://store.steampowered.com/app/1443900/Volmatic/
 
+### It also sounds way better
+
 A simple program with a GUI to have a smooth audio output
 
 This simple app allows you to have a stable audio master volume by setting it constantly according to the intensity of what you are listening.
