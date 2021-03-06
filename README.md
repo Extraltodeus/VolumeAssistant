@@ -1,5 +1,5 @@
 # VolumeAssistant 
-## NOTE : The new version is called Volmatic and is available on Steam :
+## NOTE : The new version is called Volmatic and is available on Steam (the base algorithm is also more performant) :
 https://store.steampowered.com/app/1443900/Volmatic/
 
 ### It also sounds way better
